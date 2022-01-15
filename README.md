@@ -14,7 +14,7 @@
 
 ![My basic stats on GitHub](https://github-readme-stats.vercel.app/api?username=gusrodriguezalo&show_icons=true&theme=vision-friendly-light&count_private=true)
 
-![My most used languaje](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true)
+![My most used languaje](https://github-readme-stats.vercel.app/api/top-langs/?username=gusrodriguezalo&layout=compact&theme=buefy&hide_border=true)
 
 
 <!--
