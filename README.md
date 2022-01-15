@@ -2,9 +2,7 @@
 
 ⚡ I'm Gustavo Adolfo Rodríguez Alonso, from Colombia. I am a system enginieer, freelance and moodle administrator with interests in e-learning, linux, web design, Python and computer security. 
 
-🔭 I’m currently working on Universidad Nacional Abierta y a Distancia - UNAD
-
-💬 Ask me about anything related to online training in Spain, which is what I do for a living. 
+🔭 I’m currently working on Universidad Nacional Abierta y a Distancia - UNAD 
 
 📫 You can reach me through:
 
