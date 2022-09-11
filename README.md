@@ -1,14 +1,8 @@
 ### Hi there 👋
 
-⚡ I'm Gustavo Adolfo Rodríguez Alonso, from Colombia. I am a system enginieer, freelance and moodle administrator with interests in e-learning, linux, web design, Python and computer security. 
+⚡ I'm Gustavo Adolfo Rodríguez Alonso, from Colombia. I am a system enginieer, with interests in e-learning, linux, web design, Python and computer security. 
 
 🔭 I’m currently working on Universidad Nacional Abierta y a Distancia - UNAD 
-
-📫 You can reach me through:
-
-- [My personal blog](https://medium.com/@gusrodriguezalo)
-- [My personal site](https://gusrodriguezalo.com/)
-- [Twitter](https://twitter.com/gusrodriguezalo)
 
 ![My basic stats on GitHub](https://github-readme-stats.vercel.app/api?username=gusrodriguezalo&show_icons=true&theme=vision-friendly-light&count_private=true)
 
