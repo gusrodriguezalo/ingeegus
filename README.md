@@ -4,9 +4,9 @@
 
 🔭 I’m currently working on Universidad Nacional Abierta y a Distancia - UNAD 
 
-![My basic stats on GitHub](https://github-readme-stats.vercel.app/api?username=gusrodriguezalo&show_icons=true&theme=vision-friendly-light&count_private=true)
+![My basic stats on GitHub](https://github-readme-stats.vercel.app/api?username=ingeegus&show_icons=true&theme=vision-friendly-light&count_private=true)
 
-![My most used languaje](https://github-readme-stats.vercel.app/api/top-langs/?username=gusrodriguezalo&layout=compact&theme=buefy&hide_border=true)
+![My most used languaje](https://github-readme-stats.vercel.app/api/top-langs/?username=ingeegus&layout=compact&theme=buefy&hide_border=true)
 
 
 <!--
