@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Gustavo Adolfo Rodríguez ALonso</h1>
 <h3 align="center">A passionate web developer from Colombia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ingegus&label=Profile%20views&color=0e75b6&style=flat" alt="ingegus" /> </p>
+
 - 🔭 I am currently working on my personal project called **Interfaz de Apoyo Virtual - INAV and as a moodle web developer.**
 
 - 🌱 I’m currently learning **react, docker**
 
-- 👨‍💻 Learn more about me at [ingegus.dev](ingegus.dev)
+- 👨‍💻 Learn more about me at [ingegus.dev](https://ingegus.dev)
 
 - 📫 How to reach me **gustavo.rodriguez@hotmail.es**
 
